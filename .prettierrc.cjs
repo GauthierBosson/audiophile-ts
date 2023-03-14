@@ -3,5 +3,6 @@ module.exports = {
   tailwindConfig: "./tailwind.config.js",
   semi: true,
   singleQuote: false,
-  trailingComma: "none"
+  trailingComma: "none",
+  printWidth: 80
 };
